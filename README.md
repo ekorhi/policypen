@@ -213,6 +213,20 @@ PolicyPen — better letters for public service.
 
 ---
 
+## How GitHub Copilot Built This
+
+Every function was written with GitHub Copilot Chat in VS Code.
+
+![Copilot explaining StdioServerTransport](docs/copilot-screenshot-1-transport.png)
+
+![Copilot suggesting compliance checks](docs/copilot-screenshot-2-compliance.png)
+
+![Copilot improving error handling](docs/copilot-screenshot-3-errorhandling.png)
+
+![Copilot writing JSDoc documentation](docs/copilot-screenshot-4-jsdoc.png)
+
+---
+
 ## Developer
 
 **Christopher Ekorhi** — Power Platform Developer
