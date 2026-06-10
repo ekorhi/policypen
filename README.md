@@ -23,6 +23,12 @@ Council officers spend hours writing letters to residents — searching for the 
 
 ---
 
+## Architecture
+
+![PolicyPen Architecture](docs/architecture.png)
+
+---
+
 ## The Problem
 
 Local government officers write hundreds of letters every week — housing disrepair responses, benefit decisions, noise complaint acknowledgements. Each letter must:
