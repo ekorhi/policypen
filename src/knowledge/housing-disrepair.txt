@@ -1,0 +1,9 @@
+Housing Disrepair Complaint Procedure (HOU-POL-001 v4.0)
+
+Priority levels: P1 Emergency - 2 hours. P2 Urgent - 24 hours. P3 Routine - 5 working days. P4 Planned - 28 calendar days.
+
+Log all reports in HMS within 2 hours. Capture resident details, property address, nature of defect, vulnerability indicators.
+
+HHSRS Category 1 escalation required when: child under 5 present, damp affecting respiratory condition, structural collapse risk. Notify Service Manager within 1 hour. Treat as P1 regardless of original classification.
+
+Awaab's Law: Acknowledge within 24 hours. Inspect within 14 days. Begin emergency works within 24 hours if health risk. Complete remediation within 7 weeks.
